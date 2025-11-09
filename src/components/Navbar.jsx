@@ -10,7 +10,7 @@ const Navbar = () => {
             <span>Features</span>
             <span>Pricing</span>
             <button>login</button>
-            <button className="bg-blue-400 px-4 py-3 rounded-full"> SignUp</button>
+            <button className="bg-cyan-400  text-white font-bold px-4 py-3 rounded-full"> SignUp</button>
           
 
         </div>
